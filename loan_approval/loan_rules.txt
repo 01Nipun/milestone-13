@@ -1,0 +1,11 @@
+Loan Policy Rules:
+
+1. Minimum Salary: 25,000 per month
+2. Minimum Credit Score: 700
+3. Maximum Debt-to-Income (DTI) Ratio: 55%
+4. Interest Rate Range: 9% to 13%
+5. Maximum Loan Amount: 20 times monthly salary
+6. Maximum Tenure: 30 years
+7. Existing EMI should not exceed 40% of salary
+8. Stable job required for at least 1 year
+9. Loan approval is higher for credit score above 750
